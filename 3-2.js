@@ -1,3 +1,5 @@
+'use strict';
+
 let input = process.argv[2];
 
 //Ensure the grid is big enough to find the number we're looking for

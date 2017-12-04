@@ -1,3 +1,5 @@
+'use strict';
+
 let input = process.argv[2];
 
 function getCoords(n) {
